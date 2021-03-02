@@ -7,7 +7,7 @@
 --------|:----
 HOME    |當前使用者的家目錄
 PATH    |搜尋命令的路徑
-PS1     |命令提示符號，通常由 `\u@\h:\w\$` 組合，見[如下說明](#shellscricancan-can-shu)
+PS1     |命令提示符號，通常由 `\u@\h:\w\$` 組合，見[如下說明](#shellscript-can-shu)
 PS2     |第二層的命令提示符，用在額外的輸入模式，一般為 `>`
 IFS     |輸入欄位的區隔符號
 $0      |當前執行shell script的名稱
